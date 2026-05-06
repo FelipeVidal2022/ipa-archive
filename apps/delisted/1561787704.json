@@ -11,6 +11,20 @@
   ],
   "versions": [
     {
+      "version_id": "847193712",
+      "version": "1.4.9",
+      "released_at": null,
+      "size_bytes": 64198986,
+      "description": "最后一个版本"
+    },
+    {
+      "version_id": "846500734",
+      "version": "1.4.8",
+      "released_at": null,
+      "size_bytes": 64198986,
+      "description": ""
+    },
+    {
       "version_id": "846094453",
       "version": "1.4.7",
       "released_at": null,

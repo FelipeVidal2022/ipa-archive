@@ -4,13 +4,13 @@
   "generated_at": "2026-05-07T02:23:12Z",
   "apps": [
     {
-      "id": "1561787704",
-      "name": "源阅读",
-      "bundle_id": "com.yuedu.sourceread",
-      "artist_name": "凯 程",
-      "icon_asset": "assets/icons/15/1561787704.png",
-      "latest_version": "1.4.9",
-      "updated_at": "2026-04-27T15:50:00+00:00"
+      "id": "434860636",
+      "name": "Carl & Gugl",
+      "bundle_id": "com.tayasui.talkingcarlhd",
+      "artist_name": "Tayasui.com",
+      "icon_asset": "assets/icons/15/434860636.png",
+      "latest_version": "2.1",
+      "updated_at": "2012-12-14T17:49:55+00:00"
     }
   ]
 }

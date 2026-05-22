@@ -1,0 +1,22 @@
+{
+  "id": "434860636",
+  "name": "Carl & Gugl",
+  "bundle_id": "com.tayasui.talkingcarlhd",
+  "artist_name": "Tayasui.com",
+  "icon_asset": "assets/icons/15/434860636.png",
+  "delisted": true,
+  "notes": [],
+  "countries": [
+    "CN"
+  ],
+  "versions": [
+    {
+      "version_id": "12941035",
+      "version": "1.4.9",
+      "released_at": "2012-12-14 17:49:55",
+      "size_bytes": 53844118,
+      "description": "最后一个版本"
+    }
+  ],
+  "updated_at": "2026-04-27T15:50:00+00:00"
+}
